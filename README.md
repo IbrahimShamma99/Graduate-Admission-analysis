@@ -1,6 +1,6 @@
 # Graduate students addmission analysis
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://avatars2.githubusercontent.com/u/54553291?s=400&u=7716886bd9a25af10fdb1f8240787ec9c806b3ce&v=4)](https://ibrahim-app-portfolio.herokuapp.com)
 
 ## How to run 
 ```
