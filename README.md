@@ -13,3 +13,5 @@ run Jupyter noteboook
 ```
 pip install -r requirements.txt
 ```
+
+## Happy coding
